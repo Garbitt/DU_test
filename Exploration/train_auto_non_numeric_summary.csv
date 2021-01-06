@@ -1,0 +1,10 @@
+,CAR_TYPE,CAR_TYPE_frequency,CAR_USE,CAR_USE_frequency,EDUCATION,EDUCATION_frequency,JOB,JOB_frequency,MSTATUS,MSTATUS_frequency,PARENT1,PARENT1_frequency,RED_CAR,RED_CAR_frequency,REVOKED,REVOKED_frequency,SEX,SEX_frequency,URBANICITY,URBANICITY_frequency
+0,Minivan,0.26,Private,0.63,PhD,0.09,Professional,0.14,z_No,0.4,No,0.87,yes,0.29,No,0.88,M,0.46,Highly Urban/ Urban,0.8
+1,z_SUV,0.28,Commercial,0.37,z_High School,0.29,z_Blue Collar,0.22,Yes,0.6,Yes,0.13,no,0.71,Yes,0.12,z_F,0.54,z_Highly Rural/ Rural,0.2
+2,Sports Car,0.11,,,<High School,0.15,Clerical,0.16,,,,,,,,,,,,
+3,Van,0.09,,,Bachelors,0.27,Doctor,0.03,,,,,,,,,,,,
+4,Panel Truck,0.08,,,Masters,0.2,Lawyer,0.1,,,,,,,,,,,,
+5,Pickup,0.17,,,,,Manager,0.12,,,,,,,,,,,,
+6,,,,,,,,0.0,,,,,,,,,,,,
+7,,,,,,,Home Maker,0.08,,,,,,,,,,,,
+8,,,,,,,Student,0.09,,,,,,,,,,,,
